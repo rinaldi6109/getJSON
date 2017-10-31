@@ -1,0 +1,9 @@
+# getJSON
+
+A User Defined Function to import a JSON file in a Google Sheet.
+
+Usage:
+
+=getJSON(url)
+
+It returns the content of the json file in a range starting from the current cell. 
