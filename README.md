@@ -6,7 +6,7 @@ Usage:
 
 =getJSON(url)
 
-It returns the content of the json file in a two-ways table starting from the current cell. 
+It returns the content of the json file in a tabular format starting from the current cell. 
 It allows recursive objects.
 
 Fork from https://ctrlq.org/code/20114-json-to-google-sheets.
