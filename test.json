@@ -1,0 +1,8 @@
+{"code":1,"name":"Referendum Consultivo Regionale","cClass":51,"stats":{"registeredVoters":3954,"totalVotes":3954,"transmitted":25,"notTransmitted":0,"transmission":100.00},
+"results":[
+{"bName":"NO","votes":110,"pctVotes":2.78,"canCode":1,"partyCode":2}
+,
+{"bName":"SI","votes":3821,"pctVotes":96.64,"canCode":3,"partyCode":2}
+,
+{"bName":"scheda bianca","votes":23,"pctVotes":0.58,"canCode":2,"partyCode":2,{"fieldA":2,"fieldB":"test","numbers":[1,2,3,4,{"name":"five"}]}}
+]}
