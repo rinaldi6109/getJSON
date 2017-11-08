@@ -1,4 +1,5 @@
-{"code":1,"name":"Referendum Consultivo Regionale","cClass":51,"stats":{"registeredVoters":3954,"totalVotes":3954,"transmitted":25,"notTransmitted":0,"transmission":100.00},
+{"code":1,"name":"Referendum Consultivo Regionale","cClass":51,
+"stats":{"registeredVoters":3954,"totalVotes":3954,"transmitted":25,"notTransmitted":0,"transmission":100.00},
 "results":[
 {"bName":"NO","votes":110,"pctVotes":2.78,"canCode":1,"partyCode":2}
 ,
